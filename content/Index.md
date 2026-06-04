@@ -1,5 +1,5 @@
 ---
-title: SQ Interactive
+title: Home
 ---
 
 Dex the index upupup
