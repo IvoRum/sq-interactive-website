@@ -1,0 +1,1 @@
+MWG is story based tactile RPG. Navigate the daily life of Jack a sport school student looking into the mystery of multiple disappearances. 
